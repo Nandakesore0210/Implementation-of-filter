@@ -114,24 +114,30 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
+
 ![alt text](image.png)
 
 ii)Using Weighted Averaging Filter
+
 ![alt text](image-1.png)
 
 iii)Using Gaussian Filter
+
 ![alt text](image-2.png)
 
 iv) Using Median Filter
+
 ![alt text](image-3.png)
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
+
 ![alt text](image-4.png)
 
 ii) Using Laplacian Operator
+
 ![alt text](image-5.png)
 
 ## Result:
